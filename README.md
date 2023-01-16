@@ -4,7 +4,6 @@
 - 📚 Estudante de Analises e desenvolvimento de sistemas
 - 🔬 Tec. em Patologia Clinica
 
-<div class="tenor-gif-embed" data-postid="20517262" data-share-method="host" data-aspect-ratio="1.02236" data-width="100%"><a href="https://tenor.com/view/hacker-computer-cyberpunk-hacking-dark-gif-20517262">Hacker Computer GIF</a>from <a href="https://tenor.com/search/hacker-gifs">Hacker GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <div align="center">
   <a href="https://github.com/IraquianRodrigues">
