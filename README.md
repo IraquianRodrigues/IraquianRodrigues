@@ -5,7 +5,8 @@
 - 🔬 Tec. em Patologia Clinica
 
 
-![giphy](https://user-images.githubusercontent.com/93166543/212777603-b4489004-f626-4e63-911c-c4b4808f7535.gif)
+![aaa](https://user-images.githubusercontent.com/93166543/212777805-247535d7-0665-4480-8a82-70fbcd1044cb.gif)
+
 
 
 <div align="center">
