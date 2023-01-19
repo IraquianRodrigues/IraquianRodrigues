@@ -1,4 +1,3 @@
-![aaa](https://user-images.githubusercontent.com/93166543/212777805-247535d7-0665-4480-8a82-70fbcd1044cb.gif)
 
 ## Olá! eu sou o Iraquian Rodrigues
 
@@ -6,6 +5,8 @@
 - 📚 Estudante de Analises e desenvolvimento de sistemas
 - 🔬 Tec. em Patologia Clinica
 
+
+![aaa](https://user-images.githubusercontent.com/93166543/212777805-247535d7-0665-4480-8a82-70fbcd1044cb.gif)
 
 <div align="center">
   <a href="https://github.com/IraquianRodrigues">
