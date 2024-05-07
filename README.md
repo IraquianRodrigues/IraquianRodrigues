@@ -2,7 +2,7 @@
 ## Olá! eu sou o Iraquian Rodrigues
 
 - 🖥️ Desenvolvedor Front-end junior
-- 📚 Estudante de Analises e desenvolvimento de sistemas
+- 📚 Estudante de Engenharia de Software
 - 🔬 Tec. em Patologia Clinica
 
 
